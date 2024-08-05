@@ -16,9 +16,6 @@ I am passionate about learning Machine Learning, Deep Learning, Natural Language
 - 🔭 I’m currently working on AI/ML
 - 💬 Ask me about Machine Learning, Deep Learning and NLP
 - 📫 How to reach me: dharmikanghan09@gmail.com
-- :smile:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dharmik-anghan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **dharmik-anghan/dharmik-anghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
